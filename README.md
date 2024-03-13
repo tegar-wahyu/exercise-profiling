@@ -65,6 +65,7 @@ Before Optimization
 ![img.png](src/image/img.png)
 ![img_3.png](src/image/img_3.png)
 
+After Optimization
 ![img.png](src/image/img_6.png)
 
 ### `all-student-name` endpoint
@@ -72,10 +73,13 @@ Before Optimization
 ![img_1.png](src/image/img_1.png)
 ![img_4.png](src/image/img_4.png)
 
+After Optimization
 ![img_1.png](src/image/img_7.png)
+
 ### `highest-gpa` endpoint
 Before Optimization
 ![img_2.png](src/image/img_2.png)
 ![img_5.png](src/image/img_5.png)
 
+After Optimization
 ![img_2.png](src/image/img_8.png)
